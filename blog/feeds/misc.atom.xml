@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecourse.github.io/2018fall/blog/" rel="alternate"></link><link href="https://mdecourse.github.io/2018fall/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecourse.github.io/2018fall/blog/</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌</title><link href="https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecourse.github.io,2018-09-10:/2018fall/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-10-07T18:00:00+08:00</updated><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-10-07T18:00:00+08:00</published><updated>2018-10-07T18:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-07:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;期中作業倉儲管理及Onshape基礎運用&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;期中作業倉儲管理及Onshape基礎運用&lt;/p&gt;
+
+
+&lt;p&gt;心得:
+為甚麼要用onshape而不用提它繪圖軟體，我認為最主要的原因是因為它不像其他軟體一樣需要付費，但是它的缺點就是軟體和操作說明書都是英文版的，對英文不好的人來說會相當的頭痛，但也可以利用這個機會去加以學習英文。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
