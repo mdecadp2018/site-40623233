@@ -230,7 +230,7 @@ make.start()
 <t tx="leo.20180827201621.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2018 Fall 分組網際簡報
+2018 Fall 40623233-分組網際簡報
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -341,6 +341,8 @@ make.start()
 <t tx="leo.20181007102821.2"># week 4
 
 * Onshape 使用操作說明
-* 期中作業倉儲管理</t>
+* 期中作業倉儲管理
+
+</t>
 </tnodes>
 </leo_file>
