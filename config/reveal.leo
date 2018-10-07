@@ -24,11 +24,11 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181007191426.1" a="E"><vh>20181001 w4</vh>
-<v t="leo.20181007191426.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>20181001 w4</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181007193957.1"><vh>快捷鍵</vh>
+<v t="leo.20181007193957.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -148,15 +148,10 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
+<t tx="leo.20180827201621.12"># week 4
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
+* 期中倉儲管理
+* Onshape基礎運用
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
@@ -329,7 +324,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181007191426.1">&lt;section data-markdown&gt;
+<t tx="leo.20181007193957.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -338,11 +333,14 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181007191426.2"># Week 4
+<t tx="leo.20181007193957.2"># 投影片快捷鍵
 
-* 期中作業倉儲管理
-* Onshape基本運用
-
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
 </tnodes>
