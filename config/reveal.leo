@@ -27,8 +27,11 @@
 <v t="leo.20180827201621.11" a="E"><vh>20181001 W4</vh>
 <v t="leo.20180827201621.12"><vh>W4</vh></v>
 </v>
-<v t="leo.20181008160730.1" a="E"><vh>20181008 W5</vh>
+<v t="leo.20181008160730.1"><vh>20181008 W5</vh>
 <v t="leo.20181008160730.2"><vh>W5</vh></v>
+</v>
+<v t="leo.20181015103235.1" a="E"><vh>20181015 W6</vh>
+<v t="leo.20181015103235.2"><vh>W6</vh></v>
 </v>
 <v t="leo.20181007193957.1"><vh>快捷鍵</vh>
 <v t="leo.20181007193957.2"><vh>投影片快捷鍵</vh></v>
@@ -355,10 +358,24 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181008160730.2"># week 4
+<t tx="leo.20181008160730.2"># week 5
 
 * 電腦輔助機構模擬與合成套件介紹
 * 如何解決網誌上傳(md檔)的問題
+</t>
+<t tx="leo.20181015103235.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015103235.2"># week 6
+
+* 如何修改倉儲上網站、投影片、blog上的連結
+* 如何升級CMSimfly倉儲裡的flaskapp.py並處理在網站上修改發生的問題
 </t>
 </tnodes>
 </leo_file>
