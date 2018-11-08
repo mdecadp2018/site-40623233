@@ -42,11 +42,14 @@
 <v t="leo.20181015103235.1" a="E"><vh>20181015 W6</vh>
 <v t="leo.20181015103235.2"><vh>W6</vh></v>
 </v>
-<v t="leo.20181022095837.1"><vh>20181022 W7</vh>
+<v t="leo.20181022095837.1" a="E"><vh>20181022 W7</vh>
 <v t="leo.20181022095837.2"><vh>W7</vh></v>
 </v>
 <v t="leo.20181029090853.1" a="E"><vh>20181029 W8</vh>
 <v t="leo.20181029090853.2"><vh>W8</vh></v>
+</v>
+<v t="leo.20181108110808.1" a="E"><vh>20181105 W9</vh>
+<v t="leo.20181108110808.2"><vh>W9</vh></v>
 </v>
 <v t="leo.20181007193957.1"><vh>快捷鍵</vh>
 <v t="leo.20181007193957.2"><vh>投影片快捷鍵</vh></v>
@@ -404,7 +407,8 @@ make.start()
 <t tx="leo.20181022095837.2"># week 7
 
 * 升級程式和解決個人網站上的問題
-* 
+* 更改README.md
+
 </t>
 <t tx="leo.20181022100136.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -459,8 +463,23 @@ make.start()
 </t>
 <t tx="leo.20181029090853.2"># week 8
 
-* 
-* 
+* 整理個人的網誌、blog及網站
+
+</t>
+<t tx="leo.20181108110808.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108110808.2"># week 9
+
+* 自評成績:70
+
+
 </t>
 </tnodes>
 </leo_file>
