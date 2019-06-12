@@ -166,7 +166,8 @@ Created by 40623233
 <t tx="leo.20180827201621.12">## week11-13
 
 模擬V-rep手足球人對人
-&lt;iframe src="https://www.youtube.com/watch?v=SKG3qTLmCg8" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://www.youtube.com/watch?v=SKG3qTLmCg8" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
@@ -383,8 +384,9 @@ make.start()
 </t>
 <t tx="leo.20190612132058.2">## week14
 
-模擬V-rep手足球人對機
-&lt;iframe src="https://www.youtube.com/watch?v=N7EU_EU8ffA&amp;t=2220s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+參考別組的人機來模擬V-rep手足球人對機
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/N7EU_EU8ffA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190612133623.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -397,8 +399,9 @@ make.start()
 </t>
 <t tx="leo.20190612133623.2">## week15
 
-模擬V-rep手足球人對機
-&lt;iframe src="https://www.youtube.com/watch?v=6GkOuQO9oxA&amp;t=4s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+模擬小組V-rep手足球人對機
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6GkOuQO9oxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190612133717.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -411,8 +414,9 @@ make.start()
 </t>
 <t tx="leo.20190612133717.2">## week16
 
-模擬V-rep手足球人對機
-&lt;iframe src="https://www.youtube.com/watch?v=xBZ33kvd8uI&amp;t=9s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+模擬小組V-rep手足球人對機
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xBZ33kvd8uI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190612134041.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
