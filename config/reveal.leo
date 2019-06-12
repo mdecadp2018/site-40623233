@@ -24,14 +24,23 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>20180910 W1</vh>
-<v t="leo.20180827201621.12"><vh>W1</vh></v>
+<v t="leo.20180827201621.11" a="E"><vh>w11-13</vh>
+<v t="leo.20180827201621.12"><vh>W11-13</vh></v>
 </v>
-<v t="leo.20190612132058.1"><vh>20180910 W1</vh>
-<v t="leo.20190612132058.2"><vh>W1</vh></v>
+<v t="leo.20190612132058.1" a="E"><vh>w14</vh>
+<v t="leo.20190612132058.2"><vh>W14</vh></v>
+</v>
+<v t="leo.20190612133623.1" a="E"><vh>w15</vh>
+<v t="leo.20190612133623.2"><vh>W15</vh></v>
+</v>
+<v t="leo.20190612133717.1" a="E"><vh>w16</vh>
+<v t="leo.20190612133717.2"><vh>W16</vh></v>
 </v>
 <v t="leo.20181022100138.1" a="E"><vh>20180917 W2</vh>
 <v t="leo.20181022100138.2"><vh>W2</vh></v>
+</v>
+<v t="leo.20190612134041.1" a="E"><vh>自評</vh>
+<v t="leo.20190612134041.2"><vh>評分</vh></v>
 </v>
 <v t="leo.20181007193957.1"><vh>快捷鍵</vh>
 <v t="leo.20181007193957.2"><vh>投影片快捷鍵</vh></v>
@@ -156,9 +165,9 @@ Created by 40623233
 </t>
 <t tx="leo.20180827201621.12"># week11-13
 
-模擬V-rep手足球人對人
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=SKG3qTLmCg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+* 模擬V-rep手足球人對人
+&lt;iframe src="https://www.youtube.com/watch?v=SKG3qTLmCg8" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -358,9 +367,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181022100138.2"># week 2
+<t tx="leo.20181022100138.2"># V-rep模擬手足球
 
-* 利用 Settings 將內定 branch 設為 gh-pages
+* 從week11-16做了手足球人對人和人對機的V-rep模擬，由於程式碼剛開做的時候沒什麼概念所以就參考同組組員28號的程式
 
 </t>
 <t tx="leo.20190612132058.1">&lt;section data-markdown&gt;
@@ -372,9 +381,61 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190612132058.2"># V-rep模擬手足球
+<t tx="leo.20190612132058.2"># week14
 
-* 從week11-16做了手足球人對人和人對機的V-rep模擬，由於程式碼剛開做的時候沒什麼概念所以就參考同組組員28號的程式
+* 模擬V-rep手足球人對機
+&lt;iframe src="https://www.youtube.com/watch?v=N7EU_EU8ffA&amp;t=2220s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190612133623.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190612133623.2"># week15
+
+* 模擬V-rep手足球人對機
+&lt;iframe src="https://www.youtube.com/watch?v=6GkOuQO9oxA&amp;t=4s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190612133717.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190612133717.2"># week16
+
+* 模擬V-rep手足球人對機
+&lt;iframe src="https://www.youtube.com/watch?v=xBZ33kvd8uI&amp;t=9s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190612134041.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190612134041.2">## 自評
+
+學員出席(20%) 20分
+
+Github 倉儲管理(20%) 10分
+
+Onshape 協同操作(20%) 5分
+
+V-rep 模擬(20%) 15分
+
+程式開發(20%) 15分
+
+總分:65分
 
 </t>
 </tnodes>
