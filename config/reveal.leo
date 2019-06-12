@@ -163,7 +163,7 @@ Created by 40623233
 
 						
 </t>
-<t tx="leo.20180827201621.12">##week11-13
+<t tx="leo.20180827201621.12">## week11-13
 
 模擬V-rep手足球人對人
 &lt;iframe src="https://www.youtube.com/watch?v=SKG3qTLmCg8" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -367,7 +367,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181022100138.2">##V-rep模擬手足球
+<t tx="leo.20181022100138.2">## V-rep模擬手足球
 
 從week11-16做了手足球人對人和人對機的V-rep模擬，由於程式碼剛開做的時候沒什麼概念所以就參考同組組員28號的程式
 
@@ -381,7 +381,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190612132058.2">##week14
+<t tx="leo.20190612132058.2">## week14
 
 模擬V-rep手足球人對機
 &lt;iframe src="https://www.youtube.com/watch?v=N7EU_EU8ffA&amp;t=2220s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -395,7 +395,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190612133623.2">##week15
+<t tx="leo.20190612133623.2">## week15
 
 模擬V-rep手足球人對機
 &lt;iframe src="https://www.youtube.com/watch?v=6GkOuQO9oxA&amp;t=4s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -409,7 +409,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190612133717.2">##week16
+<t tx="leo.20190612133717.2">## week16
 
 模擬V-rep手足球人對機
 &lt;iframe src="https://www.youtube.com/watch?v=xBZ33kvd8uI&amp;t=9s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
