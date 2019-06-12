@@ -156,9 +156,9 @@ Created by 40623233
 </t>
 <t tx="leo.20180827201621.12"># week11-13
 
-* 模擬V-rep手足球人對人
-&lt;iframe src="https://www.youtube.com/watch?v=SKG3qTLmCg8" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+模擬V-rep手足球人對人
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=SKG3qTLmCg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;
