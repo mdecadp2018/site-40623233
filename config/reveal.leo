@@ -27,29 +27,11 @@
 <v t="leo.20180827201621.11" a="E"><vh>20180910 W1</vh>
 <v t="leo.20180827201621.12"><vh>W1</vh></v>
 </v>
+<v t="leo.20190612132058.1"><vh>20180910 W1</vh>
+<v t="leo.20190612132058.2"><vh>W1</vh></v>
+</v>
 <v t="leo.20181022100138.1" a="E"><vh>20180917 W2</vh>
 <v t="leo.20181022100138.2"><vh>W2</vh></v>
-</v>
-<v t="leo.20181022100139.1" a="E"><vh>20180924 W3</vh>
-<v t="leo.20181022100139.2"><vh>W3</vh></v>
-</v>
-<v t="leo.20181022100136.1" a="E"><vh>20181001 W4</vh>
-<v t="leo.20181022100136.2"><vh>W4</vh></v>
-</v>
-<v t="leo.20181008160730.1" a="E"><vh>20181008 W5</vh>
-<v t="leo.20181008160730.2"><vh>W5</vh></v>
-</v>
-<v t="leo.20181015103235.1" a="E"><vh>20181015 W6</vh>
-<v t="leo.20181015103235.2"><vh>W6</vh></v>
-</v>
-<v t="leo.20181022095837.1" a="E"><vh>20181022 W7</vh>
-<v t="leo.20181022095837.2"><vh>W7</vh></v>
-</v>
-<v t="leo.20181029090853.1" a="E"><vh>20181029 W8</vh>
-<v t="leo.20181029090853.2"><vh>W8</vh></v>
-</v>
-<v t="leo.20181108110808.1" a="E"><vh>20181105 W9</vh>
-<v t="leo.20181108110808.2"><vh>W9</vh></v>
 </v>
 <v t="leo.20181007193957.1"><vh>快捷鍵</vh>
 <v t="leo.20181007193957.2"><vh>投影片快捷鍵</vh></v>
@@ -172,10 +154,10 @@ Created by 40623233
 
 						
 </t>
-<t tx="leo.20180827201621.12"># week 1
+<t tx="leo.20180827201621.12"># week11-13
 
-* 示範如何管理投影片和靜態網頁
-
+* 模擬V-rep手足球人對人
+&lt;iframe src="https://www.youtube.com/watch?v=SKG3qTLmCg8" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
@@ -367,63 +349,6 @@ make.start()
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
-<t tx="leo.20181008160730.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181008160730.2"># week 5
-
-* 電腦輔助機構模擬與合成套件介紹
-* 如何解決網誌上傳(md檔)的問題
-</t>
-<t tx="leo.20181015103235.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181015103235.2"># week 6
-
-* 如何修改倉儲上網站、投影片、blog上的連結
-* 如何升級CMSimfly倉儲裡的flaskapp.py並處理在網站上修改發生的問題
-</t>
-<t tx="leo.20181022095837.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181022095837.2"># week 7
-
-* 升級程式和解決個人網站上的問題
-* 更改README.md
-
-</t>
-<t tx="leo.20181022100136.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181022100136.2"># week 4
-
-* 期中倉儲管理
-* Onshape基礎運用
-</t>
 <t tx="leo.20181022100138.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -438,7 +363,7 @@ make.start()
 * 利用 Settings 將內定 branch 設為 gh-pages
 
 </t>
-<t tx="leo.20181022100139.1">&lt;section data-markdown&gt;
+<t tx="leo.20190612132058.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -447,38 +372,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181022100139.2"># week 3
+<t tx="leo.20190612132058.2"># V-rep模擬手足球
 
-* 放假
-
-</t>
-<t tx="leo.20181029090853.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181029090853.2"># week 8
-
-* 整理個人的網誌、blog及網站
-
-</t>
-<t tx="leo.20181108110808.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108110808.2"># week 9
-
-* 自評成績:70
-
+* 從week11-16做了手足球人對人和人對機的V-rep模擬，由於程式碼剛開做的時候沒什麼概念所以就參考同組組員28號的程式
 
 </t>
 </tnodes>
