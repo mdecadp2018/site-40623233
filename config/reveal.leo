@@ -167,7 +167,7 @@ Created by 40623233
 
 模擬V-rep手足球人對人
 
-&lt;iframe src="https://www.youtube.com/watch?v=SKG3qTLmCg8" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SKG3qTLmCg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
