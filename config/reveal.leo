@@ -152,6 +152,7 @@ Created by 40623233
 &lt;/small&gt;
 
 [小組倉儲](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g1)
+[期末報告](https://www.youtube.com/watch?v=Si8m0-1ajos&amp;feature=youtu.be)
 
 
 
