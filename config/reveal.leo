@@ -385,7 +385,7 @@ make.start()
 </t>
 <t tx="leo.20190612133623.2">## week15
 
-模擬小組V-rep手足球人對機
+模擬小組V-rep手足球人對機 part1
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6GkOuQO9oxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
@@ -400,7 +400,7 @@ make.start()
 </t>
 <t tx="leo.20190612133717.2">## week16
 
-模擬小組V-rep手足球人對機
+模擬小組V-rep手足球人對機 part2
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xBZ33kvd8uI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
