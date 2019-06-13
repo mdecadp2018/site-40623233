@@ -168,7 +168,7 @@ Created by 40623233
 </t>
 <t tx="leo.20180827201621.12">## week11-13
 
-模擬V-rep手足球人對人
+模擬V-rep手足球人對人(參考老師給的範例檔)
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SKG3qTLmCg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
@@ -373,7 +373,7 @@ make.start()
 </t>
 <t tx="leo.20190612132058.2">## week14
 
-參考別組的人機來模擬V-rep手足球人對機
+參考甲班的人對電腦來模擬V-rep手足球
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/N7EU_EU8ffA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
@@ -388,7 +388,7 @@ make.start()
 </t>
 <t tx="leo.20190612133623.2">## week15
 
-模擬小組V-rep手足球人對機 part1
+模擬小組V-rep手足球人對電腦 part1 (參考同學的程式碼)
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6GkOuQO9oxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
@@ -403,7 +403,7 @@ make.start()
 </t>
 <t tx="leo.20190612133717.2">## week16
 
-模擬小組V-rep手足球人對機 part2
+模擬小組V-rep手足球人對電腦 part2
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xBZ33kvd8uI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
@@ -442,7 +442,7 @@ V-rep 模擬(20%) 15分
 </t>
 <t tx="leo.20190613195522.2">## 心得
 
-從week11-16做了手足球人對人和人對機的V-rep模擬，由於程式碼剛開做的時候沒什麼概念所以就參考同組組員28號的程式
+從week11-16做了手足球人對人和人對電腦的V-rep模擬，由於程式碼剛開做的時候沒什麼概念，所以就請教同學和參考別人的程式以及和同組組員一起協同完成。
 
 </t>
 </tnodes>
