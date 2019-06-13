@@ -36,8 +36,8 @@
 <v t="leo.20190612133717.1" a="E"><vh>w16</vh>
 <v t="leo.20190612133717.2"><vh>W16</vh></v>
 </v>
-<v t="leo.20181022100138.1" a="E"><vh>20180917 W2</vh>
-<v t="leo.20181022100138.2"><vh>W2</vh></v>
+<v t="leo.20190613195522.1" a="E"><vh>結論</vh>
+<v t="leo.20190613195522.2"><vh>W2</vh></v>
 </v>
 <v t="leo.20190612134041.1" a="E"><vh>自評</vh>
 <v t="leo.20190612134041.2"><vh>評分</vh></v>
@@ -142,7 +142,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2019偕同產品設計實習 
+<t tx="leo.20180827201621.10">## 2019協同產品設計實習 
 40623233-期末個人簡報
 
 ### 虎科大機械設計工程系
@@ -359,20 +359,6 @@ make.start()
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
-<t tx="leo.20181022100138.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181022100138.2">## V-rep模擬手足球
-
-從week11-16做了手足球人對人和人對機的V-rep模擬，由於程式碼剛開做的時候沒什麼概念所以就參考同組組員28號的程式
-
-</t>
 <t tx="leo.20190612132058.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -440,6 +426,20 @@ V-rep 模擬(20%) 15分
 程式開發(20%) 15分
 
 總分:65分
+
+</t>
+<t tx="leo.20190613195522.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190613195522.2">## 心得
+
+從week11-16做了手足球人對人和人對機的V-rep模擬，由於程式碼剛開做的時候沒什麼概念所以就參考同組組員28號的程式
 
 </t>
 </tnodes>
